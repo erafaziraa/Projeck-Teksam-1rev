@@ -32,6 +32,7 @@ Penelitian ini merupakan penelitian kuantitatif dengan pendekatan survei yang be
 ### Perbandingan Estimasi
 
 ## Kesimpulan
+Berdasarkan hasil analisis non-probability sampling pada survei online terkait tingkat kepuasan mahasiswa FMIPA terhadap layanan keuangan digital, diketahui bahwa sebagian besar responden memberikan penilaian positif terhadap pelayanan yang diterima. Hasil distribusi responden memperlihatkan bahwa jumlah responden perempuan lebih banyak dibandingkan laki-laki. Perhitungan naive estimation menghasilkan tingkat kepuasan sebesar 83.7%, sedangkan hasil weighted estimation berdasarkan jenis kelamin menunjukkan nilai sebesar 84.9%. Selisih hasil yang tidak terlalu besar menandakan bahwa sampel penelitian telah cukup menggambarkan kondisi populasi.
 
 ## Link Kuesioner
 https://forms.gle/m1NcoGDUoyeBa8uK8
