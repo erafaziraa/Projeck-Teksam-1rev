@@ -34,4 +34,4 @@ Penelitian ini merupakan penelitian kuantitatif dengan pendekatan survei yang be
 ## Kesimpulan
 
 ## Link Kuesioner
- 
+https://forms.gle/m1NcoGDUoyeBa8uK8
