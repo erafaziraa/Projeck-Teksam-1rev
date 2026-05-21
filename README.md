@@ -17,3 +17,21 @@ Penelitian ini bertujuan untuk mengetahui tingkat kepuasan mahasiswa FMIPA Unive
 Penelitian ini merupakan penelitian kuantitatif dengan pendekatan survei yang bertujuan untuk menggambarkan tingkat kepuasan mahasiswa FMIPA Universitas Mataram terhadap penggunaan layanan keuangan digital seperti e-wallet dan mobile banking. Data diperoleh dari 30 responden yang dipilih menggunakan teknik nonprobability sampling dengan metode purposive sampling, yaitu berdasarkan kriteria mahasiswa yang aktif menggunakan layanan tersebut. Pengumpulan data dilakukan melalui kuesioner online berbasis Google Form dengan skala Likert 1–5 untuk mengukur persepsi responden terhadap indikator kepuasan yang meliputi kemudahan penggunaan, kecepatan transaksi, keamanan layanan, dan manfaat penggunaan. Data yang diperoleh kemudian dianalisis secara deskriptif kuantitatif kemudian dilakukan perbandingan dua pendekatan analisis, yaitu naive estimation yang menggunakan rata-rata sederhana seluruh indikator, dan weighted estimation yang memberikan bobot pada setiap indikator sesuai tingkat kepentingannya untuk menghasilkan nilai kepuasan yang lebih representatif.
 
 ## Tahap Analisis Data
+### Import Data
+### Analisis Deskriptif
+### Tabel Distribusi Frekuensi dan Persentase
+### Grafik Distribusi Responden
+### Naive Estimation
+### Weighting Sederhana Berdasarkan Jenis Kelamin
+### Perbandingan Naive dan Weighted Estimation
+
+## Hasil dan Pembahasan
+### Analisis Deskriptif
+### Naive Estimation
+### Weighting Sederhana
+### Perbandingan Estimasi
+
+## Kesimpulan
+
+## Link Kuesioner
+ 
